@@ -39,7 +39,7 @@ $ yarn install
 $ rails server -p 3003
 ```
 
-Open [http://localhost:3003/](http://localhost:3003/) in your browser
+Open [http://localhost:3000/](http://localhost:3003/) in your browser
 
 
 ## Author
